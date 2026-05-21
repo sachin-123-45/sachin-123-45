@@ -3,44 +3,60 @@
 <h3 align="center">🚀 Java Full Stack Developer | Spring Boot Developer</h3>
 
 <p align="center">
-Passionate about building real-world web applications.
+Passionate about building real-world web applications & scalable backend systems.
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Connect With Me
 
-- Java
-- Spring Boot
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Git & GitHub
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sachinraghgf27" target="blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="YOUR_LEETCODE_LINK" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,git,github,vscode" />
+</p>
 
 ---
 
 ## 🚖 Projects
 
 ### Bharat Sarthi
-Ride booking web application with payment integration & admin dashboard.
+Ride booking web application with:
+- Payment Integration
+- Admin Dashboard
+- Driver & Rider Modules
+- Responsive UI
 
-### OneDrive Duplicate Remover
-Spring Boot + Microsoft Graph API based project.
-
----
-
-## 🌐 Coding Profiles
-
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/sachinraghgf27
+### ☁ OneDrive Duplicate Remover
+Spring Boot + Microsoft Graph API based application.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-123-45&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sachin-123-45&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-123-45&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-🔥 Always learning & building.
