@@ -11,7 +11,7 @@ Passionate about building real-world web applications & scalable backend systems
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
+<a href="linkedin.com/in/sachin-raghav-coder" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
