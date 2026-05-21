@@ -11,7 +11,8 @@ Passionate about building real-world web applications & scalable backend systems
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="linkedin.com/in/sachin-raghav-coder" target="blank">
+
+<a href="https://linkedin.com/in/sachin-raghav-code" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -19,9 +20,10 @@ Passionate about building real-world web applications & scalable backend systems
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
-<a href="YOUR_LEETCODE_LINK" target="blank">
+<a href="https://leetcode.com/u/coder_847/" target="blank">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+
 </p>
 
 ---
@@ -60,3 +62,4 @@ Spring Boot + Microsoft Graph API based application.
 
 ---
 
+<h3 align="center">🔥 Always learning & building</h3>
