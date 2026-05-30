@@ -78,8 +78,8 @@ Spring Boot + Microsoft Graph API based enterprise tool for managing OneDrive fi
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/sachin-raghav-code  
+- 📧 Email:  sachin.raghav335214@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/sachin-raghav-coder
 
 ---
 
