@@ -10,13 +10,13 @@ Passionate Java developer focused on building scalable backend systems and real-
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/sachin-raghav-code" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/sachinraghgf27" target="blank">
+<a href="https://www.geeksforgex.com/profile/sachinraghgf27" target="blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
@@ -30,8 +30,8 @@ Passionate Java developer focused on building scalable backend systems and real-
 
 ## 🛠️ Skills
 
-<p align="left">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sachin-123-45&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,bootstrap,git,github,vscode" />
 </p>
 
 ---
@@ -39,47 +39,35 @@ Passionate Java developer focused on building scalable backend systems and real-
 ## 🚀 Projects
 
 ### 🚖 Bharat Sarthi (Ride Booking System)
-A full-stack ride booking application built using Spring Boot & MySQL.
-
-**Features:**
-- Driver & Customer Management
-- Booking System with Status Tracking
-- Admin Dashboard
-- FCM Push Notifications (Driver / Customer / Admin)
-- REST API Backend
-- Scalable Architecture
+- Driver & Customer Management  
+- Booking System with Status Tracking  
+- Admin Dashboard  
+- FCM Push Notifications  
+- REST API Backend  
 
 ---
 
 ### ☁ OneDrive Duplicate Remover
-Spring Boot + Microsoft Graph API based enterprise tool for managing OneDrive files and removing duplicates efficiently.
-
----
-
-## 💡 Currently Working On
-
-- Spring Boot Microservices
-- System Design Fundamentals
-- Real-world Backend Projects
+Spring Boot + Microsoft Graph API based tool for file management & duplicate removal.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sachin-123-45&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-123-45&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-123-45&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-123-45&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 📧 Email:  sachin.raghav335214@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/sachin-raghav-coder
+- Email: sachin.raghav335214@gmail.com  
+- LinkedIn: https://linkedin.com/in/sachin-raghav-code  
 
 ---
 
