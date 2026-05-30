@@ -31,7 +31,7 @@ Passionate Java developer focused on building scalable backend systems and real-
 ## 🛠️ Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,bootstrap,git,github,vscode" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sachin-123-45&layout=compact&theme=tokyonight" />
 </p>
 
 ---
