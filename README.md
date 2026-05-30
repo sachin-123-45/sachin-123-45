@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Raghav</h1>
 
-<h3 align="center">🚀 Java Full Stack Developer | Spring Boot Developer</h3>
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot Enthusiast</h3>
 
 <p align="center">
-Passionate about building real-world web applications & scalable backend systems.
+Passionate Java developer focused on building scalable backend systems and real-world applications.
 </p>
 
 ---
@@ -13,15 +13,15 @@ Passionate about building real-world web applications & scalable backend systems
 <p align="left">
 
 <a href="https://linkedin.com/in/sachin-raghav-code" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/sachinraghgf27" target="blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/coder_847/" target="blank">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
@@ -31,22 +31,36 @@ Passionate about building real-world web applications & scalable backend systems
 ## 🛠️ Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-## 🚖 Projects
+## 🚀 Projects
 
-### Bharat Sarthi
-Ride booking web application with:
-- Payment Integration
+### 🚖 Bharat Sarthi (Ride Booking System)
+A full-stack ride booking application built using Spring Boot & MySQL.
+
+**Features:**
+- Driver & Customer Management
+- Booking System with Status Tracking
 - Admin Dashboard
-- Driver & Rider Modules
-- Responsive UI
+- FCM Push Notifications (Driver / Customer / Admin)
+- REST API Backend
+- Scalable Architecture
+
+---
 
 ### ☁ OneDrive Duplicate Remover
-Spring Boot + Microsoft Graph API based application.
+Spring Boot + Microsoft Graph API based enterprise tool for managing OneDrive files and removing duplicates efficiently.
+
+---
+
+## 💡 Currently Working On
+
+- Spring Boot Microservices
+- System Design Fundamentals
+- Real-world Backend Projects
 
 ---
 
@@ -62,4 +76,11 @@ Spring Boot + Microsoft Graph API based application.
 
 ---
 
-<h3 align="center">🔥 Always learning & building</h3>
+## 📫 Contact Me
+
+- 📧 Email: your-email@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/sachin-raghav-code  
+
+---
+
+<h3 align="center">🔥 Always learning, building and improving</h3>
