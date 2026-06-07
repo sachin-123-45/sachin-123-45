@@ -40,6 +40,7 @@ who loves building **scalable backend systems** and **real-world applications**
 
 <div align="center">
 
+| 🌐 | Check out my **[Portfolio Website](https://sachin-123-45.github.io/portfolio/)** |
 | 👨‍💻 | **Java Full Stack Developer** from India 🇮🇳 |
 |---|---|
 | 🌱 | Learning **Spring Boot**, **REST APIs** & **System Design** |
@@ -186,6 +187,10 @@ who loves building **scalable backend systems** and **real-world applications**
 
 <div align="center">
 
+<a href="https://sachin-123-45.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/sachin-raghav-code" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
