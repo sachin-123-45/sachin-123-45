@@ -32,25 +32,22 @@ who loves building **scalable backend systems** and **real-world applications**
 
 <br/>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-- 🚀 &nbsp; Currently working as a **Java Developer**
-- 🌱 &nbsp; Exploring **Microservices**, **System Design** & **DSA**
-- 💡 &nbsp; Love building **REST APIs** with **Spring Boot**
-- 🧠 &nbsp; Problem solver on **LeetCode** & **GeeksforGeeks**
-- 🎯 &nbsp; Goal: Build products that make a **real impact**
-- ⚡ &nbsp; Fun fact: I turn **☕ Coffee** into **</> Code** daily!
-
-<br clear="right"/>
+<div align="center">
+<img alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</div>
 
 <br/>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachin-123-45&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+
+| 👨‍💻 | **Java Full Stack Developer** from India 🇮🇳 |
+|---|---|
+| 🌱 | Learning **Spring Boot**, **REST APIs** & **System Design** |
+| 💡 | Love building clean **Backend Systems** |
+| 🧠 | Problem solver on **LeetCode** & **GeeksforGeeks** |
+| 🎯 | Goal: Build products that make a **real impact** |
+| ⚡ | Fun fact: I turn **☕ Coffee** into **</> Code** daily! |
+
 </div>
 
 <br/>
