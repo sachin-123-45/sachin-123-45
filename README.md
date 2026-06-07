@@ -23,27 +23,25 @@
 
 ## 🧑‍💻 About Me
 
-```java
-public class SachinRaghav extends Developer {
+<div align="center">
 
-    private final String name        = "Sachin Raghav";
-    private final String role        = "Java Full Stack Developer";
-    private final String location    = "India 🇮🇳";
+🔥 Passionate **Java Full Stack Developer** from **India 🇮🇳**
+who loves building **scalable backend systems** and **real-world applications**
 
-    private final String[] interests = {
-        "Spring Boot", "REST APIs", "Microservices",
-        "System Design", "DSA", "Open Source"
-    };
+</div>
 
-    private final String status      = "Currently working as a Java Developer";
-    private final String goal        = "Building scalable systems & real-world applications";
+<br/>
 
-    @Override
-    public String toString() {
-        return "Passionate developer who loves turning ideas into code! 🚀";
-    }
-}
-```
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+- 🚀 &nbsp; Currently working as a **Java Developer**
+- 🌱 &nbsp; Exploring **Microservices**, **System Design** & **DSA**
+- 💡 &nbsp; Love building **REST APIs** with **Spring Boot**
+- 🧠 &nbsp; Problem solver on **LeetCode** & **GeeksforGeeks**
+- 🎯 &nbsp; Goal: Build products that make a **real impact**
+- ⚡ &nbsp; Fun fact: I turn **☕ Coffee** into **</> Code** daily!
+
+<br clear="right"/>
 
 <br/>
 
