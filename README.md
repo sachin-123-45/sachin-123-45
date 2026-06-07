@@ -87,16 +87,16 @@ public class SachinRaghav extends Developer {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-123-45&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-123-45&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-123-45&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-123-45&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=ffffff&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sachin-123-45&theme=radical&hide_border=true&background=0d1117&ring=6E40C9&fire=ff6b6b&currStreakLabel=6E40C9" alt="GitHub Streak" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-123-45&theme=radical&hide_border=true&background=0d1117&ring=6E40C9&fire=ff6b6b&currStreakLabel=6E40C9" alt="GitHub Streak" width="60%"/>
 </div>
 
 <br/>
