@@ -12,9 +12,9 @@
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin-raghav-code&label=Profile%20Views&color=6E40C9&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sachin-123-45&label=Profile%20Views&color=6E40C9&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/sachin-raghav-code?label=Followers&style=for-the-badge&color=6E40C9&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/sachin-123-45?label=Followers&style=for-the-badge&color=6E40C9&labelColor=0d1117" alt="Followers"/>
 </div>
 
 <br/>
@@ -52,7 +52,7 @@ public class SachinRaghav extends Developer {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachin-raghav-code&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sachin-123-45&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 </div>
 
 <br/>
@@ -87,16 +87,16 @@ public class SachinRaghav extends Developer {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-raghav-code&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-123-45&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-raghav-code&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-123-45&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sachin-raghav-code&theme=radical&hide_border=true&background=0d1117&ring=6E40C9&fire=ff6b6b&currStreakLabel=6E40C9" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=sachin-123-45&theme=radical&hide_border=true&background=0d1117&ring=6E40C9&fire=ff6b6b&currStreakLabel=6E40C9" alt="GitHub Streak" width="60%"/>
 </div>
 
 <br/>
@@ -106,7 +106,7 @@ public class SachinRaghav extends Developer {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-raghav-code&theme=react-dark&bg_color=0d1117&color=6E40C9&line=6E40C9&point=ffffff&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-123-45&theme=react-dark&bg_color=0d1117&color=6E40C9&line=6E40C9&point=ffffff&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
